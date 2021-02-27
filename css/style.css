@@ -10,5 +10,8 @@ h1, h3 {
 }
 body {
     text-align: center;
-    
+
+}
+.container {
+    text-align: left;
 }
